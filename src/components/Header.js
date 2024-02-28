@@ -48,14 +48,7 @@ const Header = () => {
           <div className="row align-items-center">
             <div className="col-12 col-lg-2">
               <h2>
-                <Link className="text-white">
-                  <img
-                    className="p-2"
-                    style={{ width: "70%" }}
-                    src={logo}
-                    alt="logo"
-                  ></img>
-                </Link>
+                <Link className="text-white">IShop</Link>
               </h2>
             </div>
             <div className="col-12 col-lg-5">

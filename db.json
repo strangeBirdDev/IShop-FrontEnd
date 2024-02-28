@@ -3,7 +3,7 @@
     {
       "id": "minhlqhe161101@fpt.edu.vn",
       "name": "Admin Minh le",
-      "password": "$2a$10$Dk29FNTkf7C4N0Qt1sDc5eJKYTxBA9/dgfLXFMCAFmVMTL0c917SC",
+      "password": "$2a$10$PU5f1KrWQbR3Hc6NB4F4YuUwBZwQLqb0b211qlA5ISr4P1zgTBbGS",
       "email": "Sincere@april.biz",
       "address": {
         "country": "US",
@@ -33,7 +33,7 @@
     {
       "id": "Shanna@melissa1.tv",
       "name": "Shanna Alice",
-      "password": "$2a$10$Dk29FNTkf7C4N0Qt1sDc5eJKYTxBA9/dgfLXFMCAFmVMTL0c917SC",
+      "password": "$2a$10$PU5f1KrWQbR3Hc6NB4F4YuUwBZwQLqb0b211qlA5ISr4P1zgTBbGS",
       "email": "Shanna@melissa1.tv",
       "address": {
         "country": "US",
@@ -2640,6 +2640,35 @@
       "date": "2023-07-16T13:30:58.876Z",
       "statusId": 1,
       "id": "36"
+    },
+    {
+      "userId": "minhlqhe161101@fpt.edu.vn",
+      "name": "Admin Minh le",
+      "phone": "0878532644",
+      "address": {
+        "country": "US",
+        "state": "Alabama",
+        "city": "Wisokyburgh",
+        "detailAddress": "Victor Plains",
+        "zipcode": "90566-7771",
+        "address": "Victor Plains"
+      },
+      "productList": [
+        {
+          "productId": "9",
+          "productName": "Dell XPS 13",
+          "categoryId": 3,
+          "brandId": 5,
+          "quantity": 1,
+          "color": "Platinum Silver with Black Carbon Fiber Palmrest",
+          "unitPrice": 649.99,
+          "originalPrice": 620.25
+        }
+      ],
+      "totalAmount": 649.99,
+      "date": "2024-02-28T04:04:27.495Z",
+      "statusId": 1,
+      "id": "NzOZMFz"
     }
   ],
   "status": [

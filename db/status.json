@@ -1,0 +1,22 @@
+[
+    {
+      "id": "1",
+      "name": "pending"
+    },
+    {
+      "id": "2",
+      "name": "preparing"
+    },
+    {
+      "id": "3",
+      "name": "shipping"
+    },
+    {
+      "id": "4",
+      "name": "successful"
+    },
+    {
+      "id": "5",
+      "name": "failed"
+    }
+  ]

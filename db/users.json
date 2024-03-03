@@ -1,0 +1,229 @@
+[
+      {
+        "id": "minhlqhe161101@fpt.edu.vn",
+        "name": "Admin Minh le",
+        "password": "$2a$10$Dk29FNTkf7C4N0Qt1sDc5eJKYTxBA9/dgfLXFMCAFmVMTL0c917SC",
+        "email": "Sincere@april.biz",
+        "address": {
+          "country": "US",
+          "state": "Arizona",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "0878-532-644",
+        "role": "Admin"
+      },
+      {
+        "id": "Sincere@april.biz",
+        "name": "Admin",
+        "password": "123",
+        "email": "Sincere@april.biz",
+        "address": {
+          "country": "US",
+          "state": "Arizona",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "0878-532-644",
+        "role": "Admin"
+      },
+      {
+        "id": "Shanna@melissa1.tv",
+        "name": "Shanna Alice",
+        "password": "$2a$10$Dk29FNTkf7C4N0Qt1sDc5eJKYTxBA9/dgfLXFMCAFmVMTL0c917SC",
+        "email": "Shanna@melissa1.tv",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "0904431642",
+        "role": "Customer"
+      },
+      {
+        "id": "Shanna@melissa2.tv",
+        "name": "Ervin Howell",
+        "password": "aA@1234567",
+        "email": "Shanna@melissa2.tv",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "010-692-6593 x09125",
+        "role": "Customer"
+      },
+      {
+        "id": "Shanna@melissa3.tv",
+        "name": "Ervin Howell",
+        "password": "aA@1234567",
+        "email": "Shanna@melissa3.tv",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "010-692-6593 x09125",
+        "role": "Customer"
+      },
+      {
+        "id": "Shanna@melissa4.tv",
+        "name": "Ervin Howell",
+        "password": "aA@1234567",
+        "email": "Shanna@melissa4.tv",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "010-692-6593 x09125",
+        "role": "Customer"
+      },
+      {
+        "id": "Nathan@yesenia.net",
+        "name": "Clementine Bauch",
+        "password": "123",
+        "email": "Nathan@yesenia.net",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "1-463-123-4447",
+        "role": "Customer"
+      },
+      {
+        "id": "Julianne.OConner@kory.org",
+        "name": "Patricia Lebsack",
+        "password": "aA@1234567",
+        "email": "Julianne.OConner@kory.org",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "493-170-9623 x156",
+        "role": "Customer"
+      },
+      {
+        "id": "Lucio_Hettinger@annie.ca",
+        "name": "Chelsey Dietrich",
+        "password": "aA@1234567",
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "phone": "(254)954-1289",
+        "role": "Customer"
+      },
+      {
+        "name": "Hai Ta Duc",
+        "email": "monhai770@gmail.com",
+        "phone": "0981638843",
+        "password": "",
+        "id": "monhai770@gmail.com",
+        "role": "Customer",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        }
+      },
+      {
+        "name": "Duc Hai1",
+        "email": "taduchai2k2@gmail.com",
+        "phone": "0981638843",
+        "password": "gokukap6",
+        "id": "taduchai2k2@gmail.com",
+        "role": "Customer",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        }
+      },
+      {
+        "id": "abc@gmail.com",
+        "name": "Duc Hai12112",
+        "email": "abc@gmail.com",
+        "phone": "0981638845",
+        "password": "123456789",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "role": "Customer"
+      },
+      {
+        "id": "abcd@gmail.com",
+        "name": "Duc Hai121121111",
+        "email": "abcd@gmail.com",
+        "phone": "0974894947",
+        "password": "123456789",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "role": "Customer"
+      },
+      {
+        "id": "taduchai7707@gmail.com",
+        "name": "Hai Ta Duc22222222222",
+        "email": "taduchai7707@gmail.com",
+        "phone": "0981638843",
+        "password": "gokukap6",
+        "address": {
+          "country": "US",
+          "state": "California",
+          "city": "Wisokyburgh",
+          "detailAddress": "Victor Plains",
+          "zipcode": "90566-7771"
+        },
+        "role": "Customer"
+      },
+      {
+        "id": "garenaobama@gmail.com",
+        "name": "Than Quang phuong",
+        "email": "garenaobama@gmail.com",
+        "phone": "0904431642",
+        "password": "$2a$10$6wsQHKu.0x8lvECgigoK8uHpk2AGM/DAnbykkv2RJ2UAjtVpIQcb6",
+        "role": "Customer"
+      },
+      {
+        "id": "vanhleg2301@gmail.com",
+        "name": "Hoang Viet Anh",
+        "email": "vanhleg2301@gmail.com",
+        "phone": "0978522556",
+        "password": "$2a$10$n5Wu4wavxvMAochtEs2z6eSxZJXoSER/K92Dpf1KnaNcCEZAa4TUO",
+        "role": "Customer"
+      }
+    
+]

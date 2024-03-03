@@ -217,6 +217,14 @@
       "phone": "0904431642",
       "password": "$2a$10$6wsQHKu.0x8lvECgigoK8uHpk2AGM/DAnbykkv2RJ2UAjtVpIQcb6",
       "role": "Customer"
+    },
+    {
+      "id": "vanhleg2301@gmail.com",
+      "name": "Hoang Viet Anh",
+      "email": "vanhleg2301@gmail.com",
+      "phone": "0978522556",
+      "password": "$2a$10$n5Wu4wavxvMAochtEs2z6eSxZJXoSER/K92Dpf1KnaNcCEZAa4TUO",
+      "role": "Customer"
     }
   ],
   "categories": [

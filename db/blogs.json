@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "categoryId": 1,
+      "title": "iPhone 13 Pro Max: The Ultimate Smartphone",
+      "body": "The iPhone 13 Pro Max is the latest addition to Apple's iPhone lineup. It is the largest and most advanced iPhone ever created by Apple. The phone features a stunning 6.68-inch OLED display with a resolution of 2778 x 1284 pixels at 458 PPI. The display is protected by Ceramic Shield, which is tougher than any smartphone glass.\n\nThe iPhone 13 Pro Max is powered by the A15 Bionic chip, which is the fastest chip ever in a smartphone. The chip features a 6-core CPU and a 5-core GPU, which delivers up to 50% faster graphics performance than any other smartphone.\n\nThe phone features an all-new Ultra Wide camera with autofocus which enables macro photography natively on iPhone, a new Wide camera, and a new Telephoto camera with increased 3x optical zoom. The camera system also features Night mode and Deep Fusion technology, which allows you to take stunning photos even in low light conditions.\n\nThe iPhone 13 Pro Max is available in five colors: Alpine Green, Silver, Gold, Graphite, and Sierra Blue. The phone is also available in three storage options: 128GB, 256GB, and 512GB.\n\nThe phone runs on iOS 15, which is the latest version of Apple's mobile operating system. iOS 15 introduces new features such as Focus mode, Live Text, and FaceTime enhancements. The phone also features MagSafe technology for faster wireless charging and better alignment.\n\nThe iPhone 13 Pro Max is water-resistant with an IP68 rating. It can withstand being submerged in up to six meters of water for up to thirty minutes. The phone also features Face ID for secure authentication and Apple Pay for contactless payments.\n\nIn conclusion, the iPhone 13 Pro Max is a powerful and advanced smartphone that offers an incredible user experience. With its stunning display, powerful A15 Bionic chip, and advanced camera system, it is the perfect phone for anyone who wants the best of the best.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448421/blogs/grid_landscape_dshbzd.jpg"
+    },
+    {
+      "id": "2",
+      "categoryId": 2,
+      "title": "The Best Tablets for Work and Play",
+      "body": "Tablets are great for both work and play. They are portable, lightweight, and easy to use. In this blog post, we will take a look at the best tablets for work and play. From the iPad Pro to the Microsoft Surface Pro, we have got you covered.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448511/blogs/grid_landscape_gjp67e.jpg"
+    },
+    {
+      "id": "3",
+      "categoryId": 3,
+      "title": "The Best Laptops for Students",
+      "body": "Laptops are an essential tool for students. They help them stay organized, take notes, and complete assignments. In this blog post, we will take a look at the best laptops for students. From the MacBook Air to the Dell XPS 13, we have got you covered.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448534/blogs/grid_landscape_kern15.jpg"
+    },
+    {
+      "id": "4",
+      "categoryId": 4,
+      "title": "The Best Smartwatches",
+      "body": "Smartwatches are great for fitness enthusiasts. They help you track your workouts, monitor your heart rate, and keep you motivated. In this blog post, we will take a look at the best smartwatches for fitness enthusiasts. From the Apple Watch Series 8 to the Samsung Galaxy Watch Active 4, we have got you covered.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448556/blogs/grid_landscape_mri74c.jpg"
+    },
+    {
+      "id": "5",
+      "categoryId": 1,
+      "title": "The Future of Smartphones",
+      "body": "Smartphones have come a long way since their inception. In this blog post, we will take a look at the future of smartphones. From foldable screens to holographic displays, the future of smartphones is exciting.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448581/blogs/grid_landscape_b3aopl.jpg"
+    },
+    {
+      "id": "6",
+      "categoryId": 2,
+      "title": "The Best Tablets for Kids",
+      "body": "Tablets are great for kids. They are portable, lightweight, and easy to use. In this blog post, we will take a look at the best tablets for kids. From the Amazon Fire HD Kids Edition to the Samsung Galaxy Tab A Kids Edition, we have got you covered.",
+      "image": "https://res.cloudinary.com/dck2nnfja/image/upload/v1688448603/blogs/grid_landscape_l4zkx0.jpg"
+    }
+  ]

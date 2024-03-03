@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "name": "Apple",
+      "logo": ""
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "logo": ""
+    },
+    {
+      "id": "3",
+      "name": "Samsung",
+      "logo": ""
+    },
+    {
+      "id": "4",
+      "name": "Xiaomi",
+      "logo": ""
+    },
+    {
+      "id": "5",
+      "name": "Dell",
+      "logo": ""
+    },
+    {
+      "id": "6",
+      "name": "HP",
+      "logo": ""
+    },
+    {
+      "id": "7",
+      "name": "Lenovo",
+      "logo": ""
+    },
+    {
+      "id": "8",
+      "name": "Fibit",
+      "logo": ""
+    },
+    {
+      "id": "9",
+      "name": "Garmin",
+      "logo": ""
+    }
+  ]
